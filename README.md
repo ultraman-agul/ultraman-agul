@@ -47,7 +47,7 @@
 
 <p>&emsp;&emsp;嗨，近来可好，我是小潘。</p>
 <p>&emsp;&emsp;热爱前端开发和 IT 互联网事业，希望能成为一名优秀的开发者。</p>
-<p>&emsp;&emsp;<strong>I love front-end development engineering and IT Internet career, and hope to become an excellent developer.</strong></p>
+<p>&emsp;&emsp;<strong>I love front-end development engineering and IT, and hope to become an excellent developer.</strong></p>
 
 </td></tr>
 
@@ -145,7 +145,7 @@ Mac                      45 hrs 45 mins      ███████████�
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ultraman-agul&theme=light&hide_border=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ultraman-agul&theme=dark&hide_border=true" />
 </picture>
-<img align="right" width="150"  src="https://cdn.jsdelivr.net/gh/ultraman-agul/ultraman-agul/assets/images/right.png" />
+<img align="right" width="150" src="https://cdn.jsdelivr.net/gh/ultraman-agul/ultraman-agul/assets/images/right.png" />
 
 <!-- metrics 基础资料 -->
 <img src="https://cdn.jsdelivr.net/gh/ultraman-agul/ultraman-agul/github-metrics/base.svg" />
@@ -268,7 +268,7 @@ Mac                      45 hrs 45 mins      ███████████�
     <td><img src="https://cdn.jsdelivr.net/gh/ultraman-agul/ultraman-agul/github-metrics/people.followers.svg" alt="people.followers" /></td>
   </tr>
 </table>
-
+c
 <!-- second form 第二个表格 -->
 <table>
   <tr>
