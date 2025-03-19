@@ -3,9 +3,9 @@
 <div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=ultraman-agul&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ultraman-agul&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=ultraman-agul" /> </div>
-<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=ultraman-agul" /> </div>
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=ultraman-agul&theme=xcode" /> </div>
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ultraman-agul" /> </div>
+<div align="center"> <img src="https://visitor-badge.laobi.icu/badge?page_id=ultraman-agul" /> </div>
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=ultraman-agul" /> </div>
+<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);agul祝您今天愉快!&center=true&size=27"> </a> </h1>
 <!--
 **ultraman-agul/ultraman-agul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
