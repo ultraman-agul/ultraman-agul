@@ -37,7 +37,7 @@
 
 </div>
 
-# 🙋 Hello
+# 😄 Hello
 
 <table>
   
@@ -45,8 +45,8 @@
 
 ### 🤺 About Me
 
-<p>&emsp;&emsp;嗨，近来可好，我是小潘。</p>
-<p>&emsp;&emsp;热爱前端开发和 IT 互联网事业，希望能成为一名优秀的开发者。</p>
+<p>&emsp;&emsp;嗨，近来可好</p>
+<p>&emsp;&emsp;热爱前端开发和 IT 事业，希望能成为一名优秀的开发者。</p>
 <p>&emsp;&emsp;<strong>I love front-end development engineering and IT, and hope to become an excellent developer.</strong></p>
 
 </td></tr>
